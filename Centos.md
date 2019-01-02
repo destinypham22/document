@@ -3,3 +3,4 @@ Link setup elasticsearch: https://vicloud.vn/community/cach-cai-dat-va-cau-hinh-
 ----https://lcdung.top/huong-dan-cai-dat-elasticsearch-logstash-va-kibana-elk-stack-tren-centos-7-de-quan-ly-log/
 perfomance  java : http://www.vogella.com/tutorials/JavaPerformance/article.html
 https://viblo.asia/p/tuot-tuon-tuot-ve-jdbc-gAm5yjzEKdb
+crawler: http://viet.jnlp.org/tai-nguyen-ngon-ngu-tieng-viet/ke-hoach-xay-dung-tu-dong-corpus-tu-nguon-web/crawler
