@@ -4,3 +4,5 @@ Link setup elasticsearch: https://vicloud.vn/community/cach-cai-dat-va-cau-hinh-
 perfomance  java : http://www.vogella.com/tutorials/JavaPerformance/article.html
 https://viblo.asia/p/tuot-tuon-tuot-ve-jdbc-gAm5yjzEKdb
 crawler: http://viet.jnlp.org/tai-nguyen-ngon-ngu-tieng-viet/ke-hoach-xay-dung-tu-dong-corpus-tu-nguon-web/crawler
+
+crawl: https://viblo.asia/p/thu-thap-va-luu-tru-du-lieu-voi-scrapy-va-mysql-yMnKMA9EK7P
