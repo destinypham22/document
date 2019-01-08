@@ -6,3 +6,5 @@ https://viblo.asia/p/tuot-tuon-tuot-ve-jdbc-gAm5yjzEKdb
 crawler: http://viet.jnlp.org/tai-nguyen-ngon-ngu-tieng-viet/ke-hoach-xay-dung-tu-dong-corpus-tu-nguon-web/crawler
 
 crawl: https://viblo.asia/p/thu-thap-va-luu-tru-du-lieu-voi-scrapy-va-mysql-yMnKMA9EK7P
+
+https://github.com/elliotforbes/python-crawler/blob/master/crawler/crawler.py
