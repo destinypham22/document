@@ -8,3 +8,5 @@ crawler: http://viet.jnlp.org/tai-nguyen-ngon-ngu-tieng-viet/ke-hoach-xay-dung-t
 crawl: https://viblo.asia/p/thu-thap-va-luu-tru-du-lieu-voi-scrapy-va-mysql-yMnKMA9EK7P
 https://www.hocpython.com/blog/scrapy-cong-cu-boc-tach-du-lieu-sieu-manh/
 https://github.com/elliotforbes/python-crawler/blob/master/crawler/crawler.py
+
+https://viblo.asia/p/crawl-du-lieu-tren-trang-chuyencuadevcom-ORNZqoDr50n
