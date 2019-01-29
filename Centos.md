@@ -10,3 +10,5 @@ https://www.hocpython.com/blog/scrapy-cong-cu-boc-tach-du-lieu-sieu-manh/
 https://github.com/elliotforbes/python-crawler/blob/master/crawler/crawler.py
 
 https://viblo.asia/p/crawl-du-lieu-tren-trang-chuyencuadevcom-ORNZqoDr50n
+
+https://viblo.asia/p/5-buoc-don-gian-de-hieu-ve-jwt-json-web-tokens-L4x5xwQqlBM
