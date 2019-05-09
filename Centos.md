@@ -16,3 +16,6 @@ https://viblo.asia/p/5-buoc-don-gian-de-hieu-ve-jwt-json-web-tokens-L4x5xwQqlBM
 https://kipalog.com/posts/Voc-vach-cach-deploy-java-web-len-heroku
 
 https://pawelurbanek.com/elk-nginx-logs-setup
+
+setup ubuntu: + intelleiJ https://itsfoss.com/install-intellij-ubuntu-linux/
+apt permission: https://askubuntu.com/questions/223484/permission-denied-are-you-root
